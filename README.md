@@ -1,4 +1,4 @@
-# NextechAngularBootstrapDemo
+# Basic Angular Starter App v9.1.4 (latest stable)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
 
