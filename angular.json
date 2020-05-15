@@ -127,6 +127,12 @@
     }
   },
   "defaultProject": "angular-bootstrap-demo",
+  "schematics": {
+    "@schematics/angular:component": {
+      "prefix": "app",
+      "style": "scss"
+    }
+  },
   "cli": {
     "analytics": "6c38d669-3483-4386-8b1d-ee82a0528027"
   }
