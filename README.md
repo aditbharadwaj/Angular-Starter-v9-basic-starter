@@ -1,6 +1,6 @@
-# Basic Angular Starter App v9.1.12 (latest stable and final version of 9)
+# Basic Angular Starter App v11 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11
 
 ## Development server
 
